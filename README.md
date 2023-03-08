@@ -15,11 +15,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Um desenvolvedor front-end autodidata apaixonado
+- Atualmente aprendendo Desenvolvimento Web por conta própria
 - Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Atualmente estou aberto para um estagiário ou uma nova oportunidade de trabalho, este é o meu currículo [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
