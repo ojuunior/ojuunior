@@ -9,7 +9,7 @@ Estou ansioso para colaborar em projetos inovadores e fazer parte de uma equipe 
 </p>
 
 <p align="left">
-  Linguagens: <strong>JavaScript - React - Vue </strong>
+  Linguagens: <strong>JavaScript - React - NextJS - Vue </strong>
 </p>
 
 <p align="left">
