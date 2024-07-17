@@ -1,5 +1,3 @@
-# Portfólio de Mailton Pereira da Silva Junior
-
 ## Sobre Mim
 Desenvolvedor Full-Stack e Técnico de Suporte com sólida experiência em software e hardware. Atualmente, trabalho na PagBank (Callink), prestando suporte especializado aos usuários e resolvendo problemas técnicos relacionados a contas e aplicativos. Em transição de carreira, estou focado em ampliar minhas habilidades em desenvolvimento web e back-end.
 
