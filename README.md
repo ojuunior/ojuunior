@@ -1,38 +1,63 @@
-<!-- Título e Introdução -->
-# Sobre Mim
+# Portfólio de Mailton Pereira da Silva Junior
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## Sobre Mim
+Desenvolvedor Full-Stack e Técnico de Suporte com sólida experiência em software e hardware. Atualmente, trabalho na PagBank (Callink), prestando suporte especializado aos usuários e resolvendo problemas técnicos relacionados a contas e aplicativos. Em transição de carreira, estou focado em ampliar minhas habilidades em desenvolvimento web e back-end.
 
-Olá! 👋 Meu nome é Mailton Junior e eu sou um desenvolvedor front-end apaixonado pela criação de experiências incríveis para os usuários. Com habilidades em HTML, CSS e JavaScript, bem como frameworks como React, Vue e, especialmente, Angular, estou sempre buscando novas formas de melhorar o design e a funcionalidade das aplicações que desenvolvo.
+## Formação Acadêmica
+- **Ciência da Computação - Bacharelado**
+  - Centro Universitário Anhanguera (Em Andamento)
 
-<!-- Parágrafo Principal -->
-Minha paixão por tecnologia e design me levou a buscar constantemente novos conhecimentos e habilidades, e estou sempre explorando novas ferramentas e técnicas para aprimorar meu trabalho. Com uma abordagem centrada no usuário e um compromisso com a qualidade, estou sempre buscando novos desafios e oportunidades para crescer como profissional.
+## Experiência Profissional
 
-<!-- Experiência e Habilidades -->
-## Experiência e Habilidades
+### PagBank / Callink, Uberlândia — Suporte ao Usuário
+- **Período:** Agosto 2024 - Atual
+- **Descrição:** 
+  - Presto suporte técnico especializado para usuários, focando na resolução de problemas relacionados a contas e aplicativos do banco.
+  - Utilizo tecnologias como Salesforce e outros sistemas internos para garantir a satisfação do cliente e a eficiência do atendimento.
+  - Tecnologias: Suporte Técnico, Atendimento ao Cliente, Sistemas Internos, Salesforce.
 
-💻 Tenho experiência no desenvolvimento front-end, com foco especial nas seguintes linguagens e frameworks:
+### Rede Microcel — Técnico de Manutenção de Hardware e Software
+- **Período:** Agosto 2021 – Junho 2024
+- **Descrição:** 
+  - Realizei manutenção e reparo de hardware e software em dispositivos eletrônicos.
+  - Diagnose e solução de problemas técnicos, instalação e configuração de sistemas operacionais.
 
-- JavaScript
-- React
-- Next.js
-- Vue
-- **Angular**
+### Marinha do Brasil — Técnico de Suporte em Processamento de Dados
+- **Período:** Agosto 2019 – Agosto 2021
+- **Descrição:** 
+  - Gerenciei servidores, armazenamento e redes; virtualização e administração de serviços de nuvem.
+  - Implementação de segurança da informação e sistemas de backup.
 
-🚀 Estou constantemente atualizando minhas habilidades e conhecimentos nessas áreas para fornecer soluções de alto nível.
+## Projetos
 
-<!-- Contato -->
+### Desenvolvimento de Banco Digital
+- **Descrição:**
+  - Criação de um banco digital utilizando tecnologias avançadas para proporcionar uma experiência segura e eficiente aos clientes.
+  - **Tecnologias Utilizadas:**
+    - **Java 17:** Implementação das últimas inovações da linguagem para garantir desempenho e segurança na aplicação.
+    - **Spring Boot 3:** Utilização da autoconfiguração para aumentar a produtividade no desenvolvimento de serviços bancários.
+    - **Spring Data JPA:** Simplificação do acesso aos dados, garantindo consistência e confiabilidade nas transações bancárias.
+    - **OpenAPI (Swagger):** Documentação clara e precisa das APIs, permitindo uma fácil integração com outros sistemas financeiros e parceiros.
+    - **Railway:** Facilitação do deploy na nuvem e monitoramento contínuo para garantir a disponibilidade do serviço e a segurança dos dados dos clientes.
+
+## Certificações e Cursos
+
+### Desenvolvimento Java com IA
+- **Plataforma:** DIO
+- **Carga Horária:** 60 horas
+- **Descrição:** Bootcamp que abrange desde o essencial até tópicos avançados em Java, como modelagem de bancos de dados e implementação de APIs com Spring Boot.
+
+### Angular Developer
+- **Plataforma:** Potência Tech - Powered by iFood
+- **Carga Horária:** 75 horas
+- **Descrição:** Bootcamp intensivo focado em Angular com cursos abrangentes, desafios de projeto, mentorias exclusivas e conexões com empresas de tecnologia.
+
+### Outras Certificações
+- **Webmaster Front-End:** Danki Code
+- **JavaScript, React, PHP, Banco de Dados, TypeScript, NextJS, Informática Avançada**
+
 ## Contato
-
-💌 Se você está procurando um desenvolvedor front-end experiente e motivado, não hesite em entrar em contato comigo. Estou ansioso para trabalhar com você!
-
-<p align="left">
-  <a href="mailto:mailtonjr7@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mailtonjr7@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/mailton-junior/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mailton-junior/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=38991435893" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=38991435893"/></a>
-</p>
+- **Email:** mailtonjr7@gmail.com
+- **LinkedIn:** [Mailton Junior](https://www.linkedin.com/in/mailton-pereira-da-silva-junior)
+- **Localização:** Uberlândia, Minas Gerais
+- **Telefone:** +55 38 9 9191-2277
