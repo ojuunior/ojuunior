@@ -1,61 +1,43 @@
-## Sobre Mim
-Desenvolvedor Full-Stack e Técnico de Suporte com sólida experiência em software e hardware. Atualmente, trabalho na PagBank (Callink), prestando suporte especializado aos usuários e resolvendo problemas técnicos relacionados a contas e aplicativos. Em transição de carreira, estou focado em ampliar minhas habilidades em desenvolvimento web e back-end.
+# Mailton Junior
 
-## Formação Acadêmica
-- **Ciência da Computação - Bacharelado**
-  - Centro Universitário Anhanguera (Em Andamento)
+### Software Engineer | Systems Analyst
 
-## Experiência Profissional
+👋 Hi there! I’m an experienced software engineer with a strong focus on backend development, complemented by my work in frontend technologies. I have a passion for creating reliable, scalable software solutions and optimizing products for enhanced performance.
 
-### PagBank / Callink, Uberlândia — Suporte ao Usuário
-- **Período:** Agosto 2024 - Atual
-- **Descrição:** 
-  - Presto suporte técnico especializado para usuários, focando na resolução de problemas relacionados a contas e aplicativos do banco.
-  - Utilizo tecnologias como Salesforce e outros sistemas internos para garantir a satisfação do cliente e a eficiência do atendimento.
-  - Tecnologias: Suporte Técnico, Atendimento ao Cliente, Sistemas Internos, Salesforce.
+## 🛠️ Skills
 
-### Rede Microcel — Técnico de Manutenção de Hardware e Software
-- **Período:** Agosto 2021 – Junho 2024
-- **Descrição:** 
-  - Realizei manutenção e reparo de hardware e software em dispositivos eletrônicos.
-  - Diagnose e solução de problemas técnicos, instalação e configuração de sistemas operacionais.
+- **Languages & Frameworks:** Java, Spring, TypeScript, JavaScript, Angular
+- **Databases:** PostgreSQL, MySQL, SQL
+- **Architecture:** Microservices, REST, MVC
+- **Tools & Technologies:** Docker, RabbitMQ, JasperReports, AWS
 
-### Marinha do Brasil — Técnico de Suporte em Processamento de Dados
-- **Período:** Agosto 2019 – Agosto 2021
-- **Descrição:** 
-  - Gerenciei servidores, armazenamento e redes; virtualização e administração de serviços de nuvem.
-  - Implementação de segurança da informação e sistemas de backup.
+## 💼 Experience
 
-## Projetos
+### Praia Clube, Uberlândia
+**Software Engineer** (Sep 2024 - Present)
+- Full-stack development utilizing MVC and REST architectures.
+- Implemented applications to streamline club operations.
+- Refactored a monolithic codebase for improved maintainability.
 
-### Desenvolvimento de Banco Digital
-- **Descrição:**
-  - Criação de um banco digital utilizando tecnologias avançadas para proporcionar uma experiência segura e eficiente aos clientes.
-  - **Tecnologias Utilizadas:**
-    - **Java 17:** Implementação das últimas inovações da linguagem para garantir desempenho e segurança na aplicação.
-    - **Spring Boot 3:** Utilização da autoconfiguração para aumentar a produtividade no desenvolvimento de serviços bancários.
-    - **Spring Data JPA:** Simplificação do acesso aos dados, garantindo consistência e confiabilidade nas transações bancárias.
-    - **OpenAPI (Swagger):** Documentação clara e precisa das APIs, permitindo uma fácil integração com outros sistemas financeiros e parceiros.
-    - **Railway:** Facilitação do deploy na nuvem e monitoramento contínuo para garantir a disponibilidade do serviço e a segurança dos dados dos clientes.
+### SpaceTecno, Pirapora
+**Software Engineer** (Jan 2024 - May 2024)
+- Developed an internal system for business management, enhancing operational efficiency.
+- Implemented robust backend features with Java and Spring, and created dynamic user interfaces using Angular.
 
-## Certificações e Cursos
+### Marinha do Brasil, Salvador
+**Military and Developer** (Aug 2019 - Aug 2022)
+- Contributed to the development of systems supporting military imports.
+- Managed SQL databases, ensuring data integrity and system performance.
 
-### Desenvolvimento Java com IA
-- **Plataforma:** DIO
-- **Carga Horária:** 60 horas
-- **Descrição:** Bootcamp que abrange desde o essencial até tópicos avançados em Java, como modelagem de bancos de dados e implementação de APIs com Spring Boot.
+## 🌱 Learning & Growth
+Currently enhancing my skills in **Microservices**, **Software Architecture**, **Requirements Analysis**, and **Business Analysis**.
 
-### Angular Developer
-- **Plataforma:** Potência Tech - Powered by iFood
-- **Carga Horária:** 75 horas
-- **Descrição:** Bootcamp intensivo focado em Angular com cursos abrangentes, desafios de projeto, mentorias exclusivas e conexões com empresas de tecnologia.
+## 🌐 Languages
+- Portuguese (Native)
+- English (Basic)
 
-### Outras Certificações
-- **Webmaster Front-End:** Danki Code
-- **JavaScript, React, PHP, Banco de Dados, TypeScript, NextJS, Informática Avançada**
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mailton-junior/)!
 
-## Contato
-- **Email:** mailtonjr7@gmail.com
-- **LinkedIn:** [Mailton Junior](https://www.linkedin.com/in/mailton-pereira-da-silva-junior)
-- **Localização:** Uberlândia, Minas Gerais
-- **Telefone:** +55 38 9 9191-2277
+---
+
+Thank you for visiting my profile!
